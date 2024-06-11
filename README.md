@@ -1,3 +1,3 @@
 # example-project
 
-Hello World
+Hello World!
